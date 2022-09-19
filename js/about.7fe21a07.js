@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgastro_chef"]=self["webpackChunkgastro_chef"]||[]).push([[443],{5399:function(t,n,s){s.r(n),s.d(n,{default:function(){return l}});var u=function(){var t=this;t._self._c;return t._m(0)},e=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"about"},[n("h1",[t._v("This is an about page")])])}],a=s(1001),r={},c=(0,a.Z)(r,u,e,!1,null,null,null),l=c.exports}}]);
+//# sourceMappingURL=about.7fe21a07.js.map
